@@ -1,4 +1,4 @@
-# Coin Savings Optimization (Dynamic Programming, C++)
+# Cent Savings Optimization (Dynamic Programming, C++)
 
 ## Description
 This project solves an optimization problem where a sequence of item prices must be divided into groups to minimize total cost after rounding.
@@ -40,9 +40,9 @@ You must:
 
 ## Technologies
 - C++
-
+- Problem from Kattias
 ---
 
-## 👥 Contributions
+## Contributions
 Worked in a team of 4 to design and implement the solution.  
 Contributed to implementing the dynamic programming logic and testing.
